@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body{
+    background-image: url("../images/coins.png");
+    background-color: rgb(10, 10, 10);
+    background-size: 60%;
+    background-position: top;
+    background-repeat: no-repeat;
+}
