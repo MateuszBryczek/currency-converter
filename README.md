@@ -7,7 +7,7 @@ Website have default polish language.
 
 This is simple project, used to convert currencies from PLN to USD / EUR / GBP.
 
-Try it by yourself: >>https://x-rey11.github.io/currency-converter/<<
+Try it by yourself: >>https://mateuszbryczek.github.io/currency-converter/<<
 
 ![](images/currency-converter-gif.gif)
 ## Code fragment:
@@ -34,7 +34,13 @@ const calculateResult = (amount, currency) => {
     }
 };
 ```
+## Tools used:
+- HTML
+- CSS
+- Javascript
+- Normalize.css
+- Open Graph Protocol
+
 ### Current goals:
 - increasing the amount of currencies available to choose from.
 - adding the possibility of converting **from** any currency.
-- find a girlfriend.
